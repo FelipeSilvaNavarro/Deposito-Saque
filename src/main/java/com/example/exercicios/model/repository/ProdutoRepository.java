@@ -1,4 +1,4 @@
-package com.example.exercicios.model.repositories;
+package com.example.exercicios.model.repository;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.PagingAndSortingRepository;

@@ -28,7 +28,6 @@ public class Produto {
 	public Produto() {
 
 	}
-
 	public Produto(String nome, double preco, double desconto) {
 		this.nome = nome;
 		this.preco = preco;

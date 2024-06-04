@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.exercicios.model.repositories.ProdutoRepository;
+import com.example.exercicios.model.repository.ProdutoRepository;
 
 @RestController
 @RequestMapping(path = "/api/produtos")
