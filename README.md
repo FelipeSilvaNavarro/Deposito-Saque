@@ -1,2 +1,21 @@
 # Deposito-Saque
-Projeto onde é possível simular as operações de deposito e saque de um banco após a criação da conta  Neste projeto eu aprendi sobre encapsulamento e como facilitar futuras mudanças nas regras de negocio
+
+Bem-vindo ao repositório **Deposito-Saque**.
+
+## Descrição do Projeto
+
+Este projeto consiste em uma aplicação simples para simular operações de depósito e saque em uma conta bancária rodando na propia IDE.
+
+## Funcionalidades
+
+- Realizar depósitos em uma conta bancária.
+- Realizar saques em uma conta bancária.
+- Verificar o saldo atual da conta.
+
+## Tecnologias Utilizadas
+
+- Java
+
+## Autor
+
+Felipe Silva Navarro
